@@ -21,6 +21,6 @@ Machine Learning Algorithms, App Designer, Automations, Data visualization)
 
 Contact me at avishai11900@gmail.com.
 
-https://www.linkedin.com/in/avishai-weizman/
+Linkedin: https://www.linkedin.com/in/avishai-weizman/
 
 
