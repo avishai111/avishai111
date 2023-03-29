@@ -25,6 +25,6 @@ SKILLS:
 
 ● Creative, Self-motivation, an Autodidact.
 
-Contact me at avishai11900@gmail.com.
+Contact me at avishai11900@gmail.com
 
 Linkedin: https://www.linkedin.com/in/avishai-weizman/
