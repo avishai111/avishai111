@@ -1,13 +1,11 @@
-Machine Learning researcher | SDR development 
+💫 About Me:
+Machine Learning researcher | SDR development
 
-I am a Machine Learning researcher, and SDR (software-defined radio) development engineer.
-I have a bachelor of science degree (B.Sc.) in Electrical Engineering specializing in signal processing and computers from AFEKA Tel Aviv Academic College of Engineering. 
-Now studying M.Sc. in BGU - Ben Gurion University in Electrical Engineering specializing in Signal Processing and Machine Learning. 
+I am a Machine Learning researcher, and SDR (software-defined radio) development engineer. I have a bachelor of science degree (B.Sc.) in Electrical Engineering specializing in signal processing and computers from AFEKA Tel Aviv Academic College of Engineering. Now studying M.Sc. in BGU - Ben Gurion University in Electrical Engineering specializing in Signal Processing and Machine Learning.
 
 SKILLS:
 
-● Matlab and Simulink - Advanced knowledge (Signal processing, Deep Neural networks, 
-Machine Learning Algorithms, App Designer, Automations, Data visualization) 
+● Matlab and Simulink - Advanced knowledge (Signal processing, Deep Neural networks, Machine Learning Algorithms, App Designer, Automations, Data visualization)
 ● Python - Advanced knowledge (Signal processing, Deep Neural networks, Machine Learning Algorithms, preprocessing, and algorithms on a Raspberry Pi)
 ● Git
 ● SDR and RF signals.
@@ -22,5 +20,3 @@ Machine Learning Algorithms, App Designer, Automations, Data visualization)
 Contact me at avishai11900@gmail.com.
 
 Linkedin: https://www.linkedin.com/in/avishai-weizman/
-
-
