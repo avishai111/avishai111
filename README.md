@@ -1,4 +1,5 @@
 💫 About Me:
+
 Machine Learning researcher | SDR development
 
 I am a Machine Learning researcher, and SDR (software-defined radio) development engineer. I have a bachelor of science degree (B.Sc.) in Electrical Engineering specializing in signal processing and computers from AFEKA Tel Aviv Academic College of Engineering. Now studying M.Sc. in BGU - Ben Gurion University in Electrical Engineering specializing in Signal Processing and Machine Learning.
