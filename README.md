@@ -6,15 +6,23 @@ I am a Machine Learning researcher, and SDR (software-defined radio) development
 SKILLS:
 
 ● Matlab and Simulink - Advanced knowledge (Signal processing, Deep Neural networks, Machine Learning Algorithms, App Designer, Automations, Data visualization)
+
 ● Python - Advanced knowledge (Signal processing, Deep Neural networks, Machine Learning Algorithms, preprocessing, and algorithms on a Raspberry Pi)
+
 ● Git
+
 ● SDR and RF signals.
+
 ● VHDL and FPGA (VIVADO software, ISE, ZEDBOARD, experience from Academic courses and projects)
+
 ● C - Extensive experience in Academic courses.
+
 ● Golang language - experience from projects on Linux systems.
 
 ● Quick to adapt and learn new skills.
+
 ● Team player with good social skills.
+
 ● Creative, Self-motivation, an Autodidact.
 
 Contact me at avishai11900@gmail.com.
