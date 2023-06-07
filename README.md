@@ -2,9 +2,11 @@
 
 Machine Learning researcher | SDR development
 
-I am a Machine Learning researcher, and SDR (software-defined radio) development engineer. I have a bachelor of science degree (B.Sc.) in Electrical Engineering specializing in signal processing and computers from AFEKA Tel Aviv Academic College of Engineering. 
+I am Machine Learning researcher, and SDR (software-defined radio) development engineer.
 
-Now studying M.Sc. in BGU - Ben Gurion University in Electrical Engineering specializing in Signal Processing and Machine Learning.
+I have a Bachelor of Science (B.Sc.) in Electrical Engineering specializing in signal processing and computers from AFEKA Tel Aviv Academic College of Engineering. 
+
+Now studying M.Sc. at BGU - Ben Gurion University in Electrical Engineering specializing in Signal Processing and Machine Learning. 
 
 SKILLS:
 
@@ -12,7 +14,7 @@ SKILLS:
 
 ● Python - Advanced knowledge (Signal processing, Deep Neural networks, Machine Learning Algorithms, preprocessing, and algorithms on a Raspberry Pi)
 
-● Git
+● Git - Git Bash, GitKraken, Sourcetree.
 
 ● SDR and RF signals.
 
@@ -28,6 +30,7 @@ SKILLS:
 
 ● Creative, Self-motivation, an Autodidact.
 
+
 <h3 align="left">Languages and Tools:</h3>
  <p align="left"> 
  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
@@ -42,8 +45,6 @@ SKILLS:
  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
  <a href="https://www.gitkraken.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gitkraken/gitkraken-ar21.svg" alt="gitkraken" width="40" height="40"/> </a>
-
- 
  </p>
 
 
