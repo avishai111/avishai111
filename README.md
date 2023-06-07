@@ -20,7 +20,7 @@ SKILLS:
 
 ● VHDL and FPGA (VIVADO software, ISE, ZEDBOARD, experience from Academic courses and projects)
 
-● C - Extensive experience in Academic courses.
+● C and C++ - Extensive experience in Academic courses.
 
 ● Golang language - experience from projects on Linux systems.
 
