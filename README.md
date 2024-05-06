@@ -1,6 +1,8 @@
 💫 About Me:
 
-Machine Learning researcher | SDR development
+● Head of Research Team in Machine/Deep Learning.
+● Machine Learning Researcher. 
+● SDR development. 
 
 I am Machine Learning researcher, and SDR (software-defined radio) development engineer.
 
